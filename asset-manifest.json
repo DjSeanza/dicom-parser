@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dicom-parser/static/css/main.e90927be.css",
-    "main.js": "/dicom-parser/static/js/main.3be31f5a.js",
+    "main.js": "/dicom-parser/static/js/main.4dbae01c.js",
     "static/js/787.15a9f44e.chunk.js": "/dicom-parser/static/js/787.15a9f44e.chunk.js",
     "static/media/primeicons.svg": "/dicom-parser/static/media/primeicons.e1441b135b3ca9ad643c.svg",
     "static/media/primeicons.eot": "/dicom-parser/static/media/primeicons.d44157bdfa026dc877af.eot",
@@ -10,11 +10,11 @@
     "static/media/primeicons.woff2": "/dicom-parser/static/media/primeicons.78172950b335ccdb94e2.woff2",
     "index.html": "/dicom-parser/index.html",
     "main.e90927be.css.map": "/dicom-parser/static/css/main.e90927be.css.map",
-    "main.3be31f5a.js.map": "/dicom-parser/static/js/main.3be31f5a.js.map",
+    "main.4dbae01c.js.map": "/dicom-parser/static/js/main.4dbae01c.js.map",
     "787.15a9f44e.chunk.js.map": "/dicom-parser/static/js/787.15a9f44e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e90927be.css",
-    "static/js/main.3be31f5a.js"
+    "static/js/main.4dbae01c.js"
   ]
 }
