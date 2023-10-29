@@ -14,7 +14,6 @@ export const Dicom = () => {
         reader.onload = (e) => {
           const arrayBuffer = e.target.result;
 
-          // Convert the ArrayBuffer to a ByteArray
           // @ts-ignore
           const byteArray = new Uint8Array(arrayBuffer);
 
@@ -5446,6 +5445,7 @@ export const Dicom = () => {
   };
 
   const uploadHandler = (files) => {
+    setDicomData([]);
     setSelectedFiles(files.files);
     handleFileChange();
   };
